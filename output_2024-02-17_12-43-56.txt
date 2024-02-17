@@ -1,0 +1,24 @@
+ID 9930:
+--------
+MAX SPEED                53 Mbit/s
+MAX SPEED(RAW)           6604586.0643
+Date Time                09-02-2024 16:10:32
+
+Upper Error Limit: 130.0 Mbit/s
+Upper Warning Limit: 100.0 Mbit/s
+ MAX SPEED for ID 9930 is within both Upper Error Limit and Upper Warning Limit
+
+#######################################################
+
+ID 9619:
+--------
+MAX SPEED                448 Mbit/s
+MAX SPEED(RAW)           55951920.7207
+Date Time                09-02-2024 14:00:10
+
+Upper Error Limit: 1910.0 Mbit/s
+Upper Warning Limit: 1850.0 Mbit/s
+ MAX SPEED for ID 9619 is within both Upper Error Limit and Upper Warning Limit
+
+#######################################################
+

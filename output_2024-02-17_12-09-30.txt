@@ -1,0 +1,26 @@
+ID 10017:
+---------
+MAX SPEED                62 Mbit/s
+MAX SPEED(RAW)           7806403.0838
+Date Time                09-02-2024 15:01:45
+
+MIN SPEED                1.58 Mbit/s
+MIN SPEED(RAW)           197036.9167
+Date Time                09-02-2024 18:50:45
+
+#######################################################
+
+ID 9619:
+--------
+MAX SPEED                448 Mbit/s
+MAX SPEED(RAW)           55951920.7207
+Date Time                09-02-2024 14:00:10
+
+ MAX SPEED for ID 9619 is within both Upper Error Limit and Upper Warning Limit
+
+MIN SPEED                46 Mbit/s
+MIN SPEED(RAW)           5699698.1
+Date Time                09-02-2024 18:13:40
+
+#######################################################
+

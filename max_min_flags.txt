@@ -1,0 +1,13 @@
+[id]
+id1=9930
+id2=9619
+
+[results]
+min=1
+max=1
+avg=0
+thr=1
+
+[range]
+sdate=2024-02-09-13-48-00
+edate=2024-02-09-13-50-00
